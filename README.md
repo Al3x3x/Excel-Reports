@@ -4,7 +4,7 @@ This Java application, named "Excel-Reports", was developed for "La Coqueta" com
 
 ## Project Background
 
-The "Excel-Reports" project was created pro bono for "La Coqueta" company with the intention of facilitating their sales reporting process. By eliminating the need for manual SQL queries, employees can now generate reports effortlessly using a simple calendar-based interface.
+The "Excel-Reports" project was created free for "La Coqueta" company with the intention of facilitating their sales reporting process. By eliminating the need for manual SQL queries, employees can now generate reports effortlessly using a simple calendar-based interface.
 
 ## Features
 
